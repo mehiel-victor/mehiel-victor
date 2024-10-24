@@ -1,4 +1,4 @@
-<p fontSize="40px" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Victor+Mehiel..;Front+End+Developer..;Open-Source+Enthusiast..;Learning+In+Public..;Nice+To+Meet+You+....&center=true"></a></p>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Victor+Mehiel..;Front-End+Developer..;Open-Source+Enthusiast..;Learning+In+Public..;Nice+To+Meet+You+....&center=true"></a></h1>
 
 
 ![](./profile-3d-contrib/profile-night-view.svg)
