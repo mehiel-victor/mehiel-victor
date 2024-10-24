@@ -1,4 +1,4 @@
-<h1 weight="bold" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=19A5F0&width=380&height=28&lines=Hi👋+I'm+Victor+Mehiel..;Front-End+Developer..;Open-Source+Enthusiast..;Nice+To+Meet+You..&center=true"></a></h1>
+<h1 weight="bold" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=19A5F0&width=380&height=28&lines=Hi👋+I'm+Victor+Mehiel..;Front-End+Developer..;Nice+To+Meet+You..&center=true"></a></h1>
 
 ![](./profile-3d-contrib/profile-night-view.svg)
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehiel-victor&theme=transparent&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehiel-victor&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
